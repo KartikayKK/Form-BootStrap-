@@ -1,0 +1,39 @@
+body{
+    background-color: #0A2463;
+    border-left: 80px #7DF9FF solid;
+    border-right: 80px #7DF9FF solid;
+    border-bottom: 80px #7DF9FF solid;
+    border-top: 80px #0A2463 solid;
+}
+p{
+    text-align: center;
+    font-size:2.5em;
+    font-family: 'Cutive Mono', monospace;
+}
+h1{
+    text-align: center;
+    font-size:4.5em;
+    border: 100px #0A2463 solid;
+}
+h2{
+    font-size:3em; 
+    text-align: center;
+}
+p input{
+    float: middle;
+     font-size: 2em
+}
+#one{
+    border-left: 200px #0A2463 solid;
+    border-right: 200px #0A2463 solid;
+    
+}
+#two{
+    border-left: 200px #0A2463 solid;
+    border-right: 200px #0A2463 solid;
+}
+#three{
+    font-size:2em;
+    background-color: #FAF2A1 ;
+    border-radius:20px 20px 20px 20px;
+}
